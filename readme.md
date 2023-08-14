@@ -22,4 +22,5 @@ Here's some xample code demonstrating how this module is used:
     '2g, 5s, 10k'
     >>> coin.value()
     1141
-
+--------------
+ahmed mokhtar
