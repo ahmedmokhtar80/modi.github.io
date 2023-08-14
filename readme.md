@@ -23,4 +23,9 @@ Here's some xample code demonstrating how this module is used:
     >>> coin.value()
     1141
 --------------
-ahmed mokhtar
+modi mokhtar
+
+
+
+
+
