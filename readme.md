@@ -1,43 +1,5 @@
-# hello-world
-ahmed mokhtar
-this is my first repo on github
+# hello-world\nr
+Hello World repository for Git tutorial\n
+This is an example repository for the Git tutoial on https://www.w3schools.com\n
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-# Unstaging a Staged File
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-
------------
-commit one file
------------
-
-Quickstart Guide
-----------------
-
-Here's some xample code demonstrating how this module is used:
-
-    >>> import wizcoin
-    >>> coin = wizcoin.WizCoin(2, 5, 10)
-    >>> str(coin)
-    '2g, 5s, 10k'
-    >>> coin.value()
-    1141
---------------
-modi mokhtar
-
-44444444444
-
-
-Quickstart Guide
-----------------
-
-Here's some xample code demonstrating how this module is used:
-
-    >>> import wizcoin
-    >>> coin = wizcoin.WizCoin(2, 5, 10)
-    >>> str(coin)
-    '2g, 5s, 10k'
-    >>> coin.value()
-    1141
-
-
+This repository is built step by step in the tutorial.
